@@ -43,9 +43,5 @@ public class Main {
             j.setVisible(true);
 
 
-
-
-
-
         }
 }
